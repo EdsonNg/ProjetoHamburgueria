@@ -1,0 +1,107 @@
+[33mcommit 835fac0220b558909b281131add81bb34a46ab22[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Edson <edson.ngsantos@hotmail.com>
+Date:   Wed Nov 22 14:26:52 2023 -0300
+
+    criando a pasta no projeto e add um arquivo
+
+[33mcommit 24aca16b48afc186661f9e15c0a86366fa58aabd[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: KaiqueVfreitas <kaique.vieira2502eu@outlook.com>
+Date:   Tue Nov 21 17:09:47 2023 -0300
+
+    coloquei os link's da página
+
+[33mcommit 2c3bb246519806cd80123017d3d21f41d0a74eb1[m
+Author: KaiqueVfreitas <kaique.vieira2502eu@outlook.com>
+Date:   Tue Nov 21 16:50:01 2023 -0300
+
+    hospedando o site no github
+
+[33mcommit 57c7a7a461d3b292c07bcae613782b8e1e893ea7[m
+Author: KaiqueVfreitas <kaique.vieira2502eu@outlook.com>
+Date:   Sat Nov 18 18:06:41 2023 -0300
+
+    Alterei a página localização, adicionando o slideshow e diminuindo o nav
+
+[33mcommit 1af0b46ebb5b1de20a237aec5fc29909cd2f7572[m
+Author: KaiqueVfreitas <kaique.vieira2502eu@outlook.com>
+Date:   Sat Nov 18 16:51:08 2023 -0300
+
+    Introduzindo um slide show na pagina localização
+
+[33mcommit c82baf68f3b8d499392edb8c816ee1f83a2fcf22[m
+Author: KaiqueVfreitas <kaique.vieira2502eu@outlook.com>
+Date:   Thu Nov 16 15:30:47 2023 -0300
+
+    edição na tela sobre nos, adições solicitadas pelo coordenador do curso, nav bar, texto, organização e acessibilidade
+
+[33mcommit 1023cd89cdbc82f5c4fcaa5a81977987391c1313[m
+Author: KaiqueVfreitas <kaique.vieira2502eu@outlook.com>
+Date:   Wed Nov 15 18:10:46 2023 -0300
+
+    partindo para a reta final do projeto, falta alguns detalhes e deixar responsivo mas as pagina ja estao funcionais em boa parte dos monitores, tablets e tv
+
+[33mcommit 4343da853a56b557618f22e262a807ddbde408ed[m
+Author: KaiqueVfreitas <kaique.vieira2502eu@outlook.com>
+Date:   Mon Nov 13 14:37:03 2023 -0300
+
+    Adicionei uma nova página que terá imagem do ambiente, iframe ddo endereço e slide show do local
+
+[33mcommit a98779d88c46da292f3ff4010af0823a90573bac[m
+Author: KaiqueVfreitas <kaique.vieira2502eu@outlook.com>
+Date:   Sat Nov 11 08:15:27 2023 -0300
+
+    vou começar a desenvolver um novo cardápio
+
+[33mcommit 4b1976bfb176982207bc86ac94af5d88cc28c4ed[m
+Author: KaiqueVfreitas <kaique.vieira2502eu@outlook.com>
+Date:   Thu Nov 9 14:01:53 2023 -0300
+
+    Dando atualização no gitHub, pagina sobre nos feita sem responsividade
+
+[33mcommit 6caec3a18debe69b478a4e04023e210d894643f9[m
+Author: KaiqueVfreitas <kaique.vieira2502Eu@outlook.com>
+Date:   Thu Nov 2 17:53:01 2023 -0300
+
+    Terminei a tela de cardápio, inclusive a responsividade do site, falta as outras paginas
+
+[33mcommit 5d4a58319a4e3f557d74aa405ed23fe70a8993dd[m
+Author: KaiqueVfreitas <kaique.vieira2502Eu@outlook.com>
+Date:   Thu Nov 2 15:09:55 2023 -0300
+
+    comecei a desenvolver a tela no mobile
+
+[33mcommit 6c71510e38ef47f089b173519e38011d97b98c01[m
+Author: KaiqueVfreitas <kaique.vieira2502Eu@outlook.com>
+Date:   Sat Oct 28 20:40:51 2023 -0300
+
+    Terminei de configurar o Nav e passei a mexer no footer do site
+
+[33mcommit 37a77a25f398411643d182c007cd79eb650b2091[m
+Author: KaiqueVfreitas <kaique.vieira2502Eu@outlook.com>
+Date:   Thu Oct 26 17:07:31 2023 -0300
+
+    Comecei a configurar o nav da pagina e adicionei um arquivo que tem os tamanhos e porcentagens que a pagina funciona em conjunto com a palheta de cores
+
+[33mcommit e18528bda89e6bb613c8924dd7da2a31000c262f[m
+Author: KaiqueVfreitas <kaique.vieira2502Eu@Outlook.com>
+Date:   Wed Oct 25 19:33:59 2023 -0300
+
+    esqueci de adicionar o arquivo inicio, aproveitei e coloquei instrução em cada uma das paginas
+
+[33mcommit 5e14f3d2c0b457321196e5c571815e16b60151ea[m
+Author: KaiqueVfreitas <kaique.vieira2502Eu@Outlook.com>
+Date:   Wed Oct 25 19:28:03 2023 -0300
+
+    organização entre pasta da estrutura e estilização do site, pasta elvis burguer (sobre nós), inicio e cardapio
+
+[33mcommit 4722f759304f2af47257773fedd606ca836bac09[m
+Author: KaiqueVfreitas <kaique.vieira2502Eu@outlook.com>
+Date:   Wed Oct 25 19:01:00 2023 -0300
+
+    Inicio dos codigos no HTML e no CSS
+
+[33mcommit 2e6593f1d5fdd10a4411d3d972741c7b1a5eb311[m
+Author: KaiqueVfreitas <kaique.vieira2502Eu@outlook.com>
+Date:   Wed Oct 25 15:56:30 2023 -0300
+
+    Inicio do projeto. Projeto de criação de um site de lanchonete na tematica rock in roll seculo 20. Projeto interdiciplinar para obtenção de nota do 1 modulo de desenvolvimento de sistemas na ETEC Basilids de Godoy
